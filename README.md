@@ -1,2 +1,3 @@
 # practice-1
-For use of Project Author - Shradha Kapar
+For use of Project
+Author - Shradha Kapar
